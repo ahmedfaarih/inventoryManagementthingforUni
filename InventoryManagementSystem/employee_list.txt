@@ -1,0 +1,7 @@
+Mohamed Ashjau,Admin,7812345
+Hassan Anim Ali,Finance,7653212
+Raaidh Mohamed,IT,7996271
+Abdul Salaam,HR,7774188
+Musharraf,IT,7778222
+Ali,Com,7776534
+Faarih,IT,9924971

@@ -1,0 +1,7 @@
+Stationery,Pen,4
+Stationery,Pencil,2
+Stationery,Ruler,6
+Furniture,Chair,7
+Furniture,Desk,5
+Furniture,Cupboard,1
+Electronis,Printer,3
